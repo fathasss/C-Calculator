@@ -31,6 +31,10 @@ int fonk(char q,int i,int j) {
 		}			
 		break;
 	}
+	if (q != 'S' || 'D' || 'P' || 'C') {
+		cout << "Yanlış giriş yaptınız.";
+		cout << "\n";
+	}
 	return 0;
 }
 int main() {
