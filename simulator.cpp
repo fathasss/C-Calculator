@@ -53,3 +53,4 @@ int main() {
 	cin >> t;
 	fonk(t, q, w);
 }
+//Acıkla
