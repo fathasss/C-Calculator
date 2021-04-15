@@ -1,4 +1,4 @@
-#C++ basic calculator.
+# C++ basic calculator.
 
 C++ ile yapılmış basit hesap makinesi.
 
